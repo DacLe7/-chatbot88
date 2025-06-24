@@ -1,4 +1,4 @@
-# EmotionAI Chatbot
+# EmotionAI Chatbot.
 
 ## Mục tiêu
 Chatbot nhận diện cảm xúc và ý định người dùng, gợi ý nến thơm phù hợp, cá nhân hóa trải nghiệm, lưu lịch sử, phân tích log và hỗ trợ dashboard hiện đại.
