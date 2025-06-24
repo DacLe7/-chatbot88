@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: chatbot88
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python api/app.py"
+    runtime: python-3.10
